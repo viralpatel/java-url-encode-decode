@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.viralpatel.URLDecoderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-10T08:04:48" hostname="192-168-1-105.tpgi.com.au" time="0.015">
+  <properties/>
+  <testcase name="decodeTests" classname="net.viralpatel.URLDecoderTest" time="0.015"/>
+  <system-out><![CDATA[Encoded text: john%2Bdoe%40example.com, Plain text: john+doe@example.com
+Encoded text: sample+text, Plain text: sample text
+Encoded text: %2B1653-124-23, Plain text: +1653-124-23
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
